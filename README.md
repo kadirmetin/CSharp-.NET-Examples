@@ -3,4 +3,4 @@ You can see all the C# and .NET projects I've made in this repo.
 
 ## Projects
 
-- [Calculator](https://github.com/kadirmetin/CSharp-.NET-Projects/tree/main/Calculator/) - "Calculator" is my first project. This is a simple console project.
+- [Calculator](https://github.com/kadirmetin/CSharp-.NET-Projects/tree/main/Calculator/) - This is the first C# project I've done. In this project, I made a calculator that we can operate through the console.
